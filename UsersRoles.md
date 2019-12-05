@@ -1,6 +1,19 @@
 #Souvenir Shop
 
 This is a **Shop** where anyone can watch for some souvenirs to buy.
+
+* I as a **visitor** want to see 20 souvenirs on the main page to see them without scrolling.
+* I as a **visitor** want to access page with next 20 souvenirs, if available to choose one that i want to buy. 
+* I as a **visitor** want to see on the main page souvenirs with their image, name, price, and buy button to select one that i like. 
+* I as a **visitor** want to access page with location to see where the shop is located.
+* I as a **visitor** want to access page with contacts to contact employees if i have some questions or difficulties.
+* I as a **visitor** want to access page with description of the shop, to see news of the shop and some histories.
+* I as a **visitor** want to add to cart a souvenir when i click the buy button near its image to buy it further.
+* I as a **visitor** want to receive a confirmation that the souvenir is added to cart, to be sure that i can find it there.
+
+
+
+
 **Visitor** can see all the souvenirs available in the stock. When a person reach this website, he see 20 products on the main page,
 if there are more products available in the shop, visitor can see them accessing the next page. On the main page are displayed the products with small picture, name, price.
 Also on the main page the Visitor can access the page with contacts of this shop, the page with location of shop, and other details page.
