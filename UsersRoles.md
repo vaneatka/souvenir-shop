@@ -1,5 +1,6 @@
 #Souvenir Shop
-As a **visitor** is Jack, who search a souvenir, for his friend.
+As a **visitor** is Jack. Jack searches a souvenir for his friend in the **Souvenir Shop**, his main goal is to find 
+a souvenir(s) and to buy it, or he might just look over available souvenirs in the shop.
 
 1. I as a **visitor** want to see souvenirs on the main page.
 1. I as a **visitor** want to see on the main page souvenirs with their image, name, price, and buy button to select one that i like. 
@@ -14,7 +15,8 @@ As a **visitor** is Jack, who search a souvenir, for his friend.
 1. I as a **visitor** want to choose the payment method and to pay my cart and delivery taxes.
 1. I as a **visitor** want check the status of my cart.
 
-As a **employee** is Bob, who works with this online shop.
+As a **employee** is Bob. Bob works in the **Souvenir Shop**, his main goal is to manage souvenirs in the shop, so that
+**visitor** can see actual info about souvenirs and their availability. Bob also manages the orders made by **visitors**.
 
 1. I as a **employee** want to access the admin panel to manage the shop. 
 1. I as a **employee** want to create a new souvenir to add new products to the shop. 
@@ -24,7 +26,8 @@ As a **employee** is Bob, who works with this online shop.
 1. I as a **employee** want to see all orders and their statuses. 
 1. I as a **employee** want to see change the status of orders to manage the workflow. 
 
-As a **admin** is Vik, who is the owner of the shop.
+As a **admin** is Vik. Vik is the owner of the shop, his main goal is to assign employees. Vik also can watch some 
+statistics of orders.
 
 1. I as a **admin** want to assign employees.
 1. I as a **admin** want to see order statistics.
